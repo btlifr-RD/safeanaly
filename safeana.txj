@@ -1,0 +1,110 @@
+﻿<?xml version="1.0"?>
+<Project ObjectType="90" CSAOName="Project" CSAOCaption="Project" Version="1.30">
+	<Id>{7BAE6292-CC78-4405-8AC3-BF6DE574A87E}</Id>
+	<Name>safeana</Name>
+	<Ordinal>0</Ordinal>
+	<GlobalOrder>0</GlobalOrder>
+	<VCSType>2</VCSType>
+	<Description/>
+	<Folders>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{F159FFFD-DF63-4B4A-8EB4-0373425C7262}</Id>
+			<Name>Models</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>7</FileState>
+			<LockState>0</LockState>
+			<Version>66cccb9</Version>
+			<ModelWrappers>
+				<ProjectModelWrapper ObjectType="93" CSAOName="ProjectModelWrapper" CSAOCaption="Project Model Wrapper">
+					<Id>{5B3537FA-31D7-4D82-B618-CF2EF5A35593}</Id>
+					<Name>LogicalER</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<LockState>0</LockState>
+					<FileState>7</FileState>
+					<Version>66cccb9</Version>
+					<ModelObjectType>4003</ModelObjectType>
+					<ModelFileName>LogicalER.txl</ModelFileName>
+					<ModelName/>
+					<DBPlatform/>
+				</ProjectModelWrapper>
+			</ModelWrappers>
+		</ProjectFolder>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{2F90BAB2-28A2-4A35-8269-A2BED6EE6956}</Id>
+			<Name>Reports</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>7</FileState>
+			<LockState>0</LockState>
+			<Version>66cccb9</Version>
+			<FileWrappers>
+				<ProjectFileWrapper ObjectType="92" CSAOName="ProjectFileWrapper" CSAOCaption="Project File Wrapper">
+					<Id>{B0A20239-F81A-4569-BC8D-6EFCF888744B}</Id>
+					<Name>report.pdf</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<LockState>0</LockState>
+					<FileState>7</FileState>
+					<Version>66cccb9</Version>
+				</ProjectFileWrapper>
+			</FileWrappers>
+		</ProjectFolder>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{7F7FD202-F499-4BAC-B805-1680CB0DEDD4}</Id>
+			<Name>SQL Scripts</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>7</FileState>
+			<LockState>0</LockState>
+			<Version/>
+		</ProjectFolder>
+		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
+			<Id>{BC0E18CB-4590-4947-9D09-BDDB3C1BC45F}</Id>
+			<Name>Others</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<FileState>7</FileState>
+			<LockState>0</LockState>
+			<Version/>
+		</ProjectFolder>
+	</Folders>
+	<Git>
+		<Git ObjectType="1250" CSAOName="Git" CSAOCaption="Git">
+			<Id>{A450FAED-A5E3-417F-8F4C-71D344A9CAEB}</Id>
+			<Name/>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<RemoteRepositoryPath>git@github.com:btlifr-RD/safeanaly.git</RemoteRepositoryPath>
+			<ClientPath>C:\Program Files\Git\bin\git.exe</ClientPath>
+			<WorkingDirectory>D:\Toad Data Modeler\Standard\Projects\safeanaly</WorkingDirectory>
+			<UserName/>
+			<Password/>
+		</Git>
+	</Git>
+	<SVN>
+		<SVN ObjectType="1251" CSAOName="SVN" CSAOCaption="SVN">
+			<Id>{8F43E223-DB27-4C37-97E4-42B7F06EF014}</Id>
+			<Name/>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<ClientPath/>
+			<RemoteRepositoryPath/>
+			<WorkingDirectory/>
+			<UserName/>
+			<Password/>
+			<MarkAsReadOnlyModelLocked>0</MarkAsReadOnlyModelLocked>
+			<NonInteractive>0</NonInteractive>
+			<NoAuthCache>0</NoAuthCache>
+		</SVN>
+	</SVN>
+	<ProjectManager>
+		<ProjectManagerStorage ObjectType="1220" CSAOName="ProjectManagerStorage" CSAOCaption="Project Manager Storage">
+			<Id>{B77FA121-E3DB-4D34-B767-6BAD7F4ABBB4}</Id>
+			<Name/>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+		</ProjectManagerStorage>
+	</ProjectManager>
+</Project>
