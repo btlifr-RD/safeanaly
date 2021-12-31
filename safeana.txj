@@ -5,7 +5,7 @@
 	<Ordinal>0</Ordinal>
 	<GlobalOrder>0</GlobalOrder>
 	<VCSType>2</VCSType>
-	<Description/>
+	<Description>安全预警分析数据结构设计</Description>
 	<Folders>
 		<ProjectFolder ObjectType="91" CSAOName="ProjectFolder" CSAOCaption="Project Folder">
 			<Id>{F159FFFD-DF63-4B4A-8EB4-0373425C7262}</Id>
@@ -22,7 +22,7 @@
 					<Ordinal>0</Ordinal>
 					<GlobalOrder>0</GlobalOrder>
 					<LockState>0</LockState>
-					<FileState>7</FileState>
+					<FileState>4</FileState>
 					<Version>66cccb9</Version>
 					<ModelObjectType>4003</ModelObjectType>
 					<ModelFileName>LogicalER.txl</ModelFileName>
@@ -41,13 +41,22 @@
 			<Version>66cccb9</Version>
 			<FileWrappers>
 				<ProjectFileWrapper ObjectType="92" CSAOName="ProjectFileWrapper" CSAOCaption="Project File Wrapper">
-					<Id>{B0A20239-F81A-4569-BC8D-6EFCF888744B}</Id>
-					<Name>report.pdf</Name>
+					<Id>{2D40F906-F3CA-49A1-B600-D71F52532DAD}</Id>
+					<Name>LogicalER.pdf</Name>
 					<Ordinal>0</Ordinal>
 					<GlobalOrder>0</GlobalOrder>
 					<LockState>0</LockState>
 					<FileState>7</FileState>
-					<Version>66cccb9</Version>
+					<Version/>
+				</ProjectFileWrapper>
+				<ProjectFileWrapper ObjectType="92" CSAOName="ProjectFileWrapper" CSAOCaption="Project File Wrapper">
+					<Id>{782FD018-D3AF-468D-968C-885C00BADB95}</Id>
+					<Name>report (1).pdf</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<LockState>0</LockState>
+					<FileState>7</FileState>
+					<Version/>
 				</ProjectFileWrapper>
 			</FileWrappers>
 		</ProjectFolder>
@@ -105,6 +114,40 @@
 			<Name/>
 			<Ordinal>0</Ordinal>
 			<GlobalOrder>0</GlobalOrder>
+			<ReportAliases>
+				<ProjectReportAlias ObjectType="1221" CSAOName="ProjectReportAlias" CSAOCaption="Project Report Alias">
+					<Id>{57FAF757-2635-4E41-ADF4-BF00ACD2568B}</Id>
+					<Name>Last Report</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<Description/>
+					<IsLast>1</IsLast>
+					<ProjectReportFactoryName>ProjectReportPDF</ProjectReportFactoryName>
+					<SerializedProjectReport>Ordinal=0
+GlobalOrder=0
+Language=ENU
+ToTIC=0
+ReportProjectInfo=1
+ReportOtherFiles=1
+ReportModels=1
+ClearProjectReportFolder=0
+UseWatermark=0
+ColorWatermark=0
+UseImageWaterMark=0
+NoPageBreaksBeforeEntities=1
+TableFontFamily=Arial
+TableFontSize=10
+Kind=PDF
+Path=D:\Toad Data Modeler\Standard\Projects\safeanaly\Reports\
+CellsShadow=1
+FramesDrawing=1
+Portrait=1
+RepeatHeaderRows=1
+</SerializedProjectReport>
+					<SelectedMAs>Models\LogicalER.txl;{79CF93BE-CC58-41AC-B38E-F712BBA4C9B9};{5A202427-FAE4-4B4A-8A7D-09A6DF53407A}
+</SelectedMAs>
+				</ProjectReportAlias>
+			</ReportAliases>
 		</ProjectManagerStorage>
 	</ProjectManager>
 </Project>
