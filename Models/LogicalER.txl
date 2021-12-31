@@ -259,6 +259,37 @@
 					<FullBackground>0</FullBackground>
 					<Group/>
 				</WorkSpaceShapeLabelEllipse>
+				<WorkSpaceShapeLabelQuadrangle ObjectType="1510" CSAOName="WorkSpaceShapeLabelQuadrangle" CSAOCaption="Label Quadrangle Shortcut">
+					<Id>{954DA927-6EB6-4192-A747-BE45DA0CB63B}</Id>
+					<Name>Label3</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+					<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+					<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+					<ParentBaseID>{553B649A-EC87-4A8E-894D-D88D84463FC6}</ParentBaseID>
+					<PenWidth>1</PenWidth>
+					<PenColor>0</PenColor>
+					<BrushColor>15780518</BrushColor>
+					<FontCharset>238</FontCharset>
+					<FontColor>-16777208</FontColor>
+					<FontName>Arial</FontName>
+					<FontStyle>0</FontStyle>
+					<FormatLocked>0</FormatLocked>
+					<FontHeight>-53</FontHeight>
+					<ZOrder>0</ZOrder>
+					<Top>1349</Top>
+					<Left>1543</Left>
+					<z>0</z>
+					<Width>357</Width>
+					<Height>159</Height>
+					<dz>0</dz>
+					<RecalculateSizes>0</RecalculateSizes>
+					<UseWorkSpaceRecalculateSizes>0</UseWorkSpaceRecalculateSizes>
+					<Shadow>1</Shadow>
+					<FullBackground>0</FullBackground>
+					<Group/>
+				</WorkSpaceShapeLabelQuadrangle>
 			</ShapeList>
 			<LineList>
 				<WorkSpaceLineNote ObjectType="1503" CSAOName="WorkSpaceLineNote" CSAOCaption="Note Line Shortcut">
@@ -364,9 +395,9 @@
 			<ModelName>LogicalER</ModelName>
 			<Author/>
 			<Company/>
-			<Version>66cccb9</Version>
+			<Version>e660bd5</Version>
 			<CreatedDate>2021-12-30T16:41:40.900+08:00</CreatedDate>
-			<ModifiedDate>2021-12-31T09:54:56.364+08:00</ModifiedDate>
+			<ModifiedDate>2021-12-31T10:54:23.312+08:00</ModifiedDate>
 			<Project>safeana</Project>
 			<Description/>
 		</ModelTitle>
@@ -526,6 +557,16 @@ RepeatHeaderRows=1
 				<Id>{B5C875D8-ECE9-4FD3-B55D-56007BA3BED3}</Id>
 			</NoteLines>
 			<Text>电池包</Text>
+		</LabelQuadrangle>
+		<LabelQuadrangle ObjectType="1077" CSAOName="LabelQuadrangle" CSAOCaption="Label Quadrangle">
+			<Id>{553B649A-EC87-4A8E-894D-D88D84463FC6}</Id>
+			<Name>Label3</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+			<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+			<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+			<Text>电池包30天状态</Text>
 		</LabelQuadrangle>
 	</LabelQuadrangles>
 	<Verificators2>
