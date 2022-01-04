@@ -288,8 +288,113 @@
 					<UseWorkSpaceRecalculateSizes>0</UseWorkSpaceRecalculateSizes>
 					<Shadow>1</Shadow>
 					<FullBackground>0</FullBackground>
+					<LineList>
+						<Id>{8571C7F9-24DC-4347-A6D6-7C2849F3DEE3}</Id>
+					</LineList>
 					<Group/>
 				</WorkSpaceShapeLabelQuadrangle>
+				<WorkSpaceShapeLabelQuadrangle ObjectType="1510" CSAOName="WorkSpaceShapeLabelQuadrangle" CSAOCaption="Label Quadrangle Shortcut">
+					<Id>{296C8BB1-110B-434A-84EC-A1F30063E00B}</Id>
+					<Name>Label4</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+					<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+					<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+					<ParentBaseID>{C5BED951-A8D1-44F4-A8ED-92DE5AA1B63F}</ParentBaseID>
+					<PenWidth>1</PenWidth>
+					<PenColor>0</PenColor>
+					<BrushColor>15780518</BrushColor>
+					<FontCharset>238</FontCharset>
+					<FontColor>-16777208</FontColor>
+					<FontName>Arial</FontName>
+					<FontStyle>0</FontStyle>
+					<FormatLocked>0</FormatLocked>
+					<FontHeight>-53</FontHeight>
+					<ZOrder>0</ZOrder>
+					<Top>1656</Top>
+					<Left>1543</Left>
+					<z>0</z>
+					<Width>357</Width>
+					<Height>159</Height>
+					<dz>0</dz>
+					<RecalculateSizes>0</RecalculateSizes>
+					<UseWorkSpaceRecalculateSizes>0</UseWorkSpaceRecalculateSizes>
+					<Shadow>1</Shadow>
+					<FullBackground>0</FullBackground>
+					<LineList>
+						<Id>{A095E445-17A1-4710-81A4-0307332E8D1E}</Id>
+					</LineList>
+					<Group/>
+				</WorkSpaceShapeLabelQuadrangle>
+				<WorkSpaceShapeLabelEllipse ObjectType="1512" CSAOName="WorkSpaceShapeLabelEllipse" CSAOCaption="Label Ellipse Shortcut">
+					<Id>{E222266E-4AAB-42D1-911D-0AA49988446D}</Id>
+					<Name>Label8</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+					<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+					<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+					<ParentBaseID>{16BD34DE-FF11-4A99-9AD0-FDA970B8D608}</ParentBaseID>
+					<PenWidth>1</PenWidth>
+					<PenColor>0</PenColor>
+					<BrushColor>15780518</BrushColor>
+					<FontCharset>238</FontCharset>
+					<FontColor>-16777208</FontColor>
+					<FontName>Arial</FontName>
+					<FontStyle>0</FontStyle>
+					<FormatLocked>0</FormatLocked>
+					<FontHeight>-42</FontHeight>
+					<ZOrder>0</ZOrder>
+					<Top>1381</Top>
+					<Left>1100</Left>
+					<z>0</z>
+					<Width>272</Width>
+					<Height>105</Height>
+					<dz>0</dz>
+					<RecalculateSizes>0</RecalculateSizes>
+					<UseWorkSpaceRecalculateSizes>0</UseWorkSpaceRecalculateSizes>
+					<Shadow>1</Shadow>
+					<FullBackground>0</FullBackground>
+					<LineList>
+						<Id>{8571C7F9-24DC-4347-A6D6-7C2849F3DEE3}</Id>
+					</LineList>
+					<Group/>
+				</WorkSpaceShapeLabelEllipse>
+				<WorkSpaceShapeLabelEllipse ObjectType="1512" CSAOName="WorkSpaceShapeLabelEllipse" CSAOCaption="Label Ellipse Shortcut">
+					<Id>{009E8F95-D061-451B-BCF3-45791C94A819}</Id>
+					<Name>Label9</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+					<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+					<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+					<ParentBaseID>{CAEA627D-EAEA-4909-9D9C-B9CD1AF91E81}</ParentBaseID>
+					<PenWidth>1</PenWidth>
+					<PenColor>0</PenColor>
+					<BrushColor>15780518</BrushColor>
+					<FontCharset>238</FontCharset>
+					<FontColor>-16777208</FontColor>
+					<FontName>Arial</FontName>
+					<FontStyle>0</FontStyle>
+					<FormatLocked>0</FormatLocked>
+					<FontHeight>-42</FontHeight>
+					<ZOrder>0</ZOrder>
+					<Top>1689</Top>
+					<Left>1100</Left>
+					<z>0</z>
+					<Width>272</Width>
+					<Height>105</Height>
+					<dz>0</dz>
+					<RecalculateSizes>0</RecalculateSizes>
+					<UseWorkSpaceRecalculateSizes>0</UseWorkSpaceRecalculateSizes>
+					<Shadow>1</Shadow>
+					<FullBackground>0</FullBackground>
+					<LineList>
+						<Id>{A095E445-17A1-4710-81A4-0307332E8D1E}</Id>
+					</LineList>
+					<Group/>
+				</WorkSpaceShapeLabelEllipse>
 			</ShapeList>
 			<LineList>
 				<WorkSpaceLineNote ObjectType="1503" CSAOName="WorkSpaceLineNote" CSAOCaption="Note Line Shortcut">
@@ -340,6 +445,94 @@
 						</Point>
 					</Points>
 				</WorkSpaceLineNote>
+				<WorkSpaceLineNote ObjectType="1503" CSAOName="WorkSpaceLineNote" CSAOCaption="Note Line Shortcut">
+					<Id>{8571C7F9-24DC-4347-A6D6-7C2849F3DEE3}</Id>
+					<Name>Line</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+					<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+					<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+					<ParentBaseID>{24612C6D-317D-4D7E-A0E0-B9F289913914}</ParentBaseID>
+					<PenWidth>1</PenWidth>
+					<PenColor>0</PenColor>
+					<BrushColor>15780518</BrushColor>
+					<FontCharset>238</FontCharset>
+					<FontColor>-16777208</FontColor>
+					<FontName>Arial</FontName>
+					<FontStyle>0</FontStyle>
+					<FormatLocked>0</FormatLocked>
+					<FontHeight>-28</FontHeight>
+					<ZOrder>-10</ZOrder>
+					<LockPointsInRightAngledMode>0</LockPointsInRightAngledMode>
+					<RightAngledLine>0</RightAngledLine>
+					<WorkSpaceShape1>
+						<Id>{E222266E-4AAB-42D1-911D-0AA49988446D}</Id>
+					</WorkSpaceShape1>
+					<WorkSpaceShape2>
+						<Id>{954DA927-6EB6-4192-A747-BE45DA0CB63B}</Id>
+					</WorkSpaceShape2>
+					<EndType1>0</EndType1>
+					<EndType2>0</EndType2>
+					<Points>
+						<Point>
+							<x>1372</x>
+							<y>1427</y>
+						</Point>
+						<Point>
+							<x>1543</x>
+							<y>1427</y>
+						</Point>
+					</Points>
+				</WorkSpaceLineNote>
+				<WorkSpaceLineNote ObjectType="1503" CSAOName="WorkSpaceLineNote" CSAOCaption="Note Line Shortcut">
+					<Id>{A095E445-17A1-4710-81A4-0307332E8D1E}</Id>
+					<Name>Line</Name>
+					<Ordinal>0</Ordinal>
+					<GlobalOrder>0</GlobalOrder>
+					<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+					<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+					<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+					<ParentBaseID>{CE494426-0D6B-46BC-B39B-C8FEAA6D7B56}</ParentBaseID>
+					<PenWidth>1</PenWidth>
+					<PenColor>0</PenColor>
+					<BrushColor>15780518</BrushColor>
+					<FontCharset>238</FontCharset>
+					<FontColor>-16777208</FontColor>
+					<FontName>Arial</FontName>
+					<FontStyle>0</FontStyle>
+					<FormatLocked>0</FormatLocked>
+					<FontHeight>-28</FontHeight>
+					<ZOrder>-10</ZOrder>
+					<LockPointsInRightAngledMode>0</LockPointsInRightAngledMode>
+					<RightAngledLine>0</RightAngledLine>
+					<WorkSpaceShape1>
+						<Id>{009E8F95-D061-451B-BCF3-45791C94A819}</Id>
+					</WorkSpaceShape1>
+					<WorkSpaceShape2>
+						<Id>{296C8BB1-110B-434A-84EC-A1F30063E00B}</Id>
+					</WorkSpaceShape2>
+					<EndType1>0</EndType1>
+					<EndType2>0</EndType2>
+					<Points>
+						<Point>
+							<x>1372</x>
+							<y>1744</y>
+						</Point>
+						<Point>
+							<x>1462</x>
+							<y>1744</y>
+						</Point>
+						<Point>
+							<x>1462</x>
+							<y>1742</y>
+						</Point>
+						<Point>
+							<x>1543</x>
+							<y>1742</y>
+						</Point>
+					</Points>
+				</WorkSpaceLineNote>
 			</LineList>
 			<Page>
 				<WorkSpacePage ObjectType="1511" CSAOName="WorkSpacePage" CSAOCaption="Workspace Page">
@@ -383,6 +576,28 @@
 				<Id>{54ED9C7C-1311-4C69-A217-EF453411C141}</Id>
 			</O2>
 		</NoteLine>
+		<NoteLine ObjectType="1003" CSAOName="NoteLine" CSAOCaption="Line">
+			<Id>{24612C6D-317D-4D7E-A0E0-B9F289913914}</Id>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<O1>
+				<Id>{16BD34DE-FF11-4A99-9AD0-FDA970B8D608}</Id>
+			</O1>
+			<O2>
+				<Id>{553B649A-EC87-4A8E-894D-D88D84463FC6}</Id>
+			</O2>
+		</NoteLine>
+		<NoteLine ObjectType="1003" CSAOName="NoteLine" CSAOCaption="Line">
+			<Id>{CE494426-0D6B-46BC-B39B-C8FEAA6D7B56}</Id>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<O1>
+				<Id>{CAEA627D-EAEA-4909-9D9C-B9CD1AF91E81}</Id>
+			</O1>
+			<O2>
+				<Id>{C5BED951-A8D1-44F4-A8ED-92DE5AA1B63F}</Id>
+			</O2>
+		</NoteLine>
 	</NoteLines>
 	<ModelTitle>
 		<ModelTitle ObjectType="1011" CSAOName="ModelTitle" CSAOCaption="Model Title">
@@ -395,9 +610,9 @@
 			<ModelName>LogicalER</ModelName>
 			<Author/>
 			<Company/>
-			<Version>e660bd5</Version>
+			<Version>5dfec01</Version>
 			<CreatedDate>2021-12-30T16:41:40.900+08:00</CreatedDate>
-			<ModifiedDate>2021-12-31T10:54:23.312+08:00</ModifiedDate>
+			<ModifiedDate>2022-01-04T16:28:38.218+08:00</ModifiedDate>
 			<Project>safeana</Project>
 			<Description/>
 		</ModelTitle>
@@ -543,6 +758,32 @@ RepeatHeaderRows=1
 			<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
 			<Text>pack_min_vt</Text>
 		</LabelEllipse>
+		<LabelEllipse ObjectType="1078" CSAOName="LabelEllipse" CSAOCaption="Label Ellipse">
+			<Id>{16BD34DE-FF11-4A99-9AD0-FDA970B8D608}</Id>
+			<Name>Label8</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+			<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+			<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+			<NoteLines>
+				<Id>{24612C6D-317D-4D7E-A0E0-B9F289913914}</Id>
+			</NoteLines>
+			<Text>pack_ID</Text>
+		</LabelEllipse>
+		<LabelEllipse ObjectType="1078" CSAOName="LabelEllipse" CSAOCaption="Label Ellipse">
+			<Id>{CAEA627D-EAEA-4909-9D9C-B9CD1AF91E81}</Id>
+			<Name>Label9</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+			<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+			<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+			<NoteLines>
+				<Id>{CE494426-0D6B-46BC-B39B-C8FEAA6D7B56}</Id>
+			</NoteLines>
+			<Text>pack_ID</Text>
+		</LabelEllipse>
 	</LabelEllipses>
 	<LabelQuadrangles>
 		<LabelQuadrangle ObjectType="1077" CSAOName="LabelQuadrangle" CSAOCaption="Label Quadrangle">
@@ -566,7 +807,23 @@ RepeatHeaderRows=1
 			<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
 			<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
 			<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+			<NoteLines>
+				<Id>{24612C6D-317D-4D7E-A0E0-B9F289913914}</Id>
+			</NoteLines>
 			<Text>电池包30天状态</Text>
+		</LabelQuadrangle>
+		<LabelQuadrangle ObjectType="1077" CSAOName="LabelQuadrangle" CSAOCaption="Label Quadrangle">
+			<Id>{C5BED951-A8D1-44F4-A8ED-92DE5AA1B63F}</Id>
+			<Name>Label4</Name>
+			<Ordinal>0</Ordinal>
+			<GlobalOrder>0</GlobalOrder>
+			<GalleryItemID>{00000000-0000-0000-0000-000000000000}</GalleryItemID>
+			<GalleryID>{00000000-0000-0000-0000-000000000000}</GalleryID>
+			<GalleryObjectID>{00000000-0000-0000-0000-000000000000}</GalleryObjectID>
+			<NoteLines>
+				<Id>{CE494426-0D6B-46BC-B39B-C8FEAA6D7B56}</Id>
+			</NoteLines>
+			<Text>电池包安全阈值</Text>
 		</LabelQuadrangle>
 	</LabelQuadrangles>
 	<Verificators2>
